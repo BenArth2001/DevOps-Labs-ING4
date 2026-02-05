@@ -4,3 +4,5 @@ node_modules
 !.gitignore
 !.eslintignore
 !.eslintrc.json
+!.env.example
+.env
